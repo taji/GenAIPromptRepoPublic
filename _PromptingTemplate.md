@@ -11,19 +11,14 @@ Genre = Sci-Fi
 
 Title: [Insert story title here]
 
-Setting: [Insert setting details here,
-including time period, location, and any
-relevant background information]
+Setting: [Insert setting details here, including time period, location, and any relevant background information]
 
-Protagonist: [Insert protagonist's name,
-age, and occupation, as well as a brief description
-of their personality and motivations]
+Protagonist: [Insert protagonist's name, age, and occupation, as well as a brief description of their personality and motivations]
 
-Antagonist: [Insert antagonist's name, age,
-and occupation, as well as a brief description
-of their personality and motivations]
+Antagonist: [Insert antagonist's name, age, and occupation, as well as a brief description of their personality and motivations]
 
 (etc)
 
+Fill out the template above for a {Genre} story
 
-
+Genre = Sci—Fi
