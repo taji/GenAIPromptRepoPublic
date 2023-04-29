@@ -1,5 +1,5 @@
 
-[//]: # (This document is in progress and incomplete)
+[//]: # (Version 1.0.0, ready for use).
 
 From here: https://youtu.be/493h3MxcF6Q 
 
