@@ -13,7 +13,9 @@ Answer with "..." if you acknowledge.
 Don't write anything yet.
 
 ENVIRONMENT = Swamp
+
 AUTHOR = H.P. Lovecraft
+
 ODDITY = Minotaur
 
 ## P2
