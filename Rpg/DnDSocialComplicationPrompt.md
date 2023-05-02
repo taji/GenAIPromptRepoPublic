@@ -42,7 +42,9 @@ OTHERS: [Insert details describing {SECONDARY_NAME}, similar to: "You see three 
 
 INITIAL PROBLEM: [Insert a single line of dialog from {PRIMARY_NAME} that discusses his desire for {SURFACE_MOTIVE} and hints at his desire for {ULTERIOR_MOTIVE}, ending in a question for the player characters, similar to this: "You have been summoned here to answer the threat of Mordor. I worry that our answer may be too late!  Bring forth the Ring! What magic can be used to destroy this foul magic?"
 
-CHALLENGES: [Insert a list of revelations, conflicts, boasts, insults or opportunities from the {PRIMARY_NAME} and/or {SECONDARY_NAME} that the player characters will have to resolve in order to achieve {PC_MOTIVE}]
+UNDERLYING PROBLEM: [Insert an elaboration on {ULTERIOR_MOTIVE} that must be addressed or resolved by the player characters to achieve {PC_MOTIVE}
+
+CHALLENGES: [Insert a list of revelations, conflicts, boasts, insults or opportunities from the {PRIMARY_NAME} and/or {SECONDARY_NAME} that the player characters will have to address or resolve in order to achieve {PC_MOTIVE}]
 
 Fill out the template above for a social encounter with {PRIMARY_NAME} and {SECONDARY_NAME} in the style of {AUTHOR} and include details regarding this odd element: {ODDITY}.
 
