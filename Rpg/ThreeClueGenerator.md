@@ -42,7 +42,7 @@ DESTINATION3 = Frank Nassar, corrupt police detective
   \- ANCILLARY CLUE: [Insert details for a clue found at {START_NODE} that reveals or infers the type of {CRIME} crime being committed, similar to this: "Two detonation caps can be found behind the metal track of the storage space door. They rolled back there and were lost while Yassif Manssor was building the bombs and planning the attack."]
 
 CLUES AT  [Insert {DESTINATION1} here, in all caps]:
-  \- [Insert details for a clue that leads the investigators to {DESTINATION2} from {DESTINATION1}, similar to this: "A large metal trash can in the storage closet off the balcony of Yassif Mansoor's apartment contains the charcoaled remnants of a massive amount of documentary evidence. Sifting through the ashes reveals a few partially preserved scraps of paper, including part of a Radio Shack shipping manifest including an order number. Tracking the order reveals several pieces of electronic equipment that could be useful in building bombs. More importantly, it also gives them a credit card number and one of the fake names Mansoor was using. If they track recent activity on the credit card, they’ll find that it was used to rent a room at the Bellagio"]
+  \- [Insert details for a clue that leads the investigators to {DESTINATION2} from {DESTINATION1}, similar to this: "A trash can in the storage closet contains burned reciepts for electronic parts to make a bomb. More importantly, it also gives them a credit card number and one of the fake names Mansoor was using. If they track recent activity on the credit card, they’ll find that it was used to rent a room at the Bellagio"]
   \- [Insert details for a clue that leads the investigators to {DESTINATION3} from {DESTINATION1}, similar to this: "One of the men found at Yassif Mansoor's apartment cracks under questioning and reveals that Yassif Mansoor was at the apartment yesterday with a cop named Nasser"]
   \- ANCILLARY CLUE: [Insert details for a clue found at {DESTINATION1} that reveals or infers the type of {CRIME} crime being committed, similar to this: "There are six suicide-bomb vests stored in the walk-in closet of Yassif Mansoor's apartment." ]
 
@@ -51,10 +51,10 @@ CLUES AT [Insert {DESTINATION2} here, in all caps]:
   \- [Insert details for a clue that leads the investigators to {DESTINATION3} from {DESTINATION2}, similar to this: "At the Bellagio, Manoor is found with his terrorist accomplices.  Sewn into the lining of Mansoor’s jacket is a small packet of microfilm. The microfilm contains records indicating that Frank Nasser of the Las Vegas police department is guilty of embezzling from a fund used for undercover drug buys. Mansoor was using these records to blackmail Nasser."]
 
 CLUES AT [Insert {DESTINATION3} here, in all caps]:
-  \- [Insert details for a clue that leads the investigators to {DESTINATION1} from {DESTINATION3}, similar to this: "Nasser is more likely to crack under questioning and reveal his accomplice is Mansoor and where he lives."]
-  \- [Insert details for a clue that leads the investigators to {DESTINATION2} from {DESTINATION3}, similar to this: "Nasser can also be placed under surveillance. He will check in at both the Bellagio and Mansoor’s apartment before the bombings occur"]
+  \- [Insert details for a clue that leads the investigators to {DESTINATION1} from {DESTINATION3}, similar to this: "Nasser is more likely to crack under questioning and reveal his accomplice is Mansoor and the location of Mansoor's apartment."]
+  \- [Insert details for a clue that leads the investigators to {DESTINATION2} from {DESTINATION3}, similar to this: "Nasser can also be placed under surveillance. He will visit both the Bellagio and Mansoor’s apartment before the bombings occur"]
 
-Fill out the template above for a {STORY_TYPE} involving the player character investigators beginning their investigation of {CRIME} at {START_NODE} or {START_PERSON} and finding clues that lead to {DESTINATION1}, {DESTINATION2} and {DESTINATION3}.
+Fill out the template above for a {STORY_TYPE} story involving the player character investigators beginning their investigation of {CRIME} at {START_NODE} or {START_PERSON} and finding clues that lead to {DESTINATION1}, {DESTINATION2} and {DESTINATION3}.
 
 CRIME: a terror plot involving detonating bombs in Las Vegas
 
@@ -71,18 +71,16 @@ DESTINATION2 = The Bellagio Hotel And Casino
 DESTINATION3 = Frank Nassar, corrupt police detective
 
 
-
-
 STORY_TYPE = harry potter type fantasy
 
-CRIME: A conspiracy to over throw the Ministry of Magic using mind control
+CRIME: A conspiracy by the Death Eaters to over throw the Ministry of Magic using a mind flayer named Threxulon
 
 START_NODE = Hogwarts School of Wizardry
 
-START_PERSON = Professor Snape
+START_PERSON = A hypnotized student at Hogwarts named Rupert Ham
 
 DESTINATION1 = The Black Lake
 
 DESTINATION2 = The Forbidden Forest
 
-DESTINATION3 = Professor Quirrell, evil wizard
+DESTINATION3 = Threxulon's Lair
