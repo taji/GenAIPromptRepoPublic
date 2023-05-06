@@ -2,25 +2,25 @@
 
 From here: https://youtu.be/493h3MxcF6Q 
 
-# DnD Location Prompt
+# DnD Evil Faction Prompt
 
 ## P1
 
 You are a Dungeons and Dragons senario author. 
 Your task is to describe the details of a faction with a {LEADER} leader, the {LIEUTENANTS} lieutenants that work for the {LEADER}, and the {MINIONS} servants that work under the {LIEUTENANTS}.  The faction should include details regarding this odd element: {ODDITY}. 
 
+LEADER = Grognar, the dark wizard
+
+LIEUTENANTS = goblin priests
+
+MINIONS = wolf riders
+
+CONFLICT_SOURCE = Envy
+
+ODDITY = the town of Whitesparrow
+
 Answer with "..." if you acknowledge. 
 Don't write anything yet.
-
-LEADER = Mind Flayer
-
-LIEUTENANTS = Sorcerers
-
-MINIONS = Cranium Rats
-
-CONFLICT_SOURCE = (can be any of these:  revenge, greed, envy, arrogance, or heresy )
-
-ODDITY = a black lake
 
 ## P2
 
@@ -41,6 +41,11 @@ PORTENTS OF DOOM: [Insert details for three events that will take place before t
 
 CONFLICTS:  [Insert details regarding the potential conflicts due to {CONFLICT_SOURCE} that could exist between the {LEADER} leader and the {LIEUTENANTS} lieutenants, similar to this: "The goblin priest lieutenant Golgu is envious of Grognar and will betray him if Grognar drives the goblin priest lietenants to the point of exhaustion". 
 
+Answer with "..." if you acknowledge. 
+Don't write anything yet.
+
+## P3 (Execution with new input)
+
 Fill out the template above for the following input properties:
 
 LEADER = Mind Flayer
@@ -49,7 +54,7 @@ LIEUTENANTS = Sorcerers
 
 MINIONS = Cranium Rats
 
-CONFLICT_SOURCE = (can be any of these:  revenge, greed, envy, arrogance, or heresy )
+CONFLICT_SOURCE = [can be any of these in this list:  Revenge, Greed, Envy, Gluttony, Lust, Sloth, Wrath, Pride, Deceit, Vanity, Selfishness, Intemperance, Arrogance, Jealousy, Procrastination, Addiction, Dishonesty, Neglect, Ingratitude, Prejudice, Hypocrisy, Heresy, incompetence, Political Ambition]
 
 ODDITY = a black lake
 

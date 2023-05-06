@@ -1,5 +1,5 @@
 
-[//]: # (Versio n 1.0.0, ready for use.)
+[//]: # (Version 1.0.0, ready for use.)
 
 From here: https://youtu.be/493h3MxcF6Q 
 
@@ -9,16 +9,19 @@ From here: https://youtu.be/493h3MxcF6Q
 
 You are a Dungeons and Dragons senario author. 
 Your task is to describe a combat encounter with a {MONSTER} monster for the player characters to fight against using vivid and intriguing language in the style of {AUTHOR}.  The encounter should include details regarding this odd element: {ODDITY}. 
-Answer with "..." if you acknowledge. 
-Don't write anything yet.
 
 MONSTER = Minotaur
 AUTHOR = Robert E. Howard
 ODDITY = Goblin minions
 
+Answer with "..." if you acknowledge. 
+Don't write anything yet.
+
 ## P2
 
-[Insert Combat Encounter title here. Include the monsters name in the title. Use ALL CAPS]
+Here is a template: 
+
+[Insert Combat Encounter title here. Include the monster's name in the title. Use ALL CAPS]
 
 INITIAL EVENT: [Insert details to foreshadow the combat encounter describing some dangerous aspect of the monster, similar to this: "You hear the shrieks of dark creatures moving toward you"]
 INITIAL PROBLEM: [Insert a single detail about the encounter that will limit, confuse or frighten the player characters as they battle the monster or oddity, similar to this: "You can make out shapes in the darkness and a few weapons but their number is obscured."]
@@ -30,9 +33,13 @@ MORE EVENTS:
 TIMER: [Insert a detail that indicates a looming danger that will change the course of the combat and ensure the defeat of the player characters, similar to this: "Suddenly the ceiling begins to cave in.  You have only seconds before the entire room collapses" ].
 CHALLENGES: [Insert a list of challenges or skill checks based on the generated description, the monster and the oddity]
 
+Answer with "..." if you acknowledge. 
+Don't write anything yet.
+
+## P3 (Execution with new input)
+
 Fill out the template above for a combat encounter with the {MONSTER} in the style of {AUTHOR} and include details regarding this odd element: {ODDITY}.
 
-MONSTER = Minotaur
-AUTHOR = H.P. Lovecraft
-ODDITY = Goblin minions
-
+MONSTER = Ogre
+AUTHOR = Douglas Adams
+ODDITY = Wearing a clown outfit

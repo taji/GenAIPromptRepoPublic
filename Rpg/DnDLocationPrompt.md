@@ -9,14 +9,15 @@ From here: https://youtu.be/493h3MxcF6Q
 
 You are a Dungeons and Dragons senario author. 
 Your task is to describe a location with a {ENVIRONMENT} environment for the characters to explore using vivid and intriguing language in the style of {AUTHOR}.  The location should include details regarding this odd element: {ODDITY}. 
+
+ENVIRONMENT = cemetary
+
+AUTHOR = JK Rowling
+
+ODDITY = obelisk with strange runes and zombies
+
 Answer with "..." if you acknowledge. 
 Don't write anything yet.
-
-ENVIRONMENT = Swamp
-
-AUTHOR = H.P. Lovecraft
-
-ODDITY = Minotaur
 
 ## P2
 
@@ -38,6 +39,11 @@ CHALLENGES: [Insert a list of actions or skill checks the players could perform 
    \- Investigating the grave markers for clues
    \- finding an entrance to one of the mausoleums
    \- reading or deciphering the runes on the monument"]
+
+Answer with "..." if you acknowledge. 
+Don't write anything yet.
+
+# P3 (Execution with new input)
 
 Fill out the template above for a {ENVIRONMENT} environment in the style of {AUTHOR} and include details regarding this odd element: {ODDITY}.
 
