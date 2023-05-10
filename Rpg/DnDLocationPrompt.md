@@ -5,6 +5,11 @@ From here: https://youtu.be/493h3MxcF6Q
 
 # DnD Location Prompt
 
+## Usage and Guidance
+
+- See the optional prompts below to expand or refine.
+- Make sure that every challenge has a statted NO/YES/YES,AND mechanic and that you have answers to any questions the challenge raises (you can ask ChatGPT to answer the questions it raises).
+
 ## P1
 
 You are a Dungeons and Dragons senario author. 
@@ -43,11 +48,25 @@ CHALLENGES: [Insert a list of actions or skill checks the players could perform 
 Answer with "..." if you acknowledge. 
 Don't write anything yet.
 
-# P3 (Execution with new input)
+## P3 (Execution with new input)
 
 Fill out the template above for a {ENVIRONMENT} environment in the style of {AUTHOR} and include details regarding this odd element: {ODDITY}.
 
 ENVIRONMENT = Swamp
 AUTHOR = H.P. Lovecraft
 ODDITY = Minotaur
+
+## P4 Optional prompts
+
+*Replace one the challenges*
+
+Regenerate the second challenge with new details
+
+*You can merge the new challenge with the last template as so:*
+
+Display the generated template again replacing second challenge with the new details
+
+*Make discriptions terse*
+
+Display generated template but summarize the details.
 
