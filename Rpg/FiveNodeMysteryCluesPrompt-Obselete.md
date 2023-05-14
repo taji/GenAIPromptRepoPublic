@@ -73,7 +73,7 @@ NODE3 = Griphook The Goblin
 
 END_NODE = Gringott's Bank
 
-CLUE_TYPE = Any items in this list: tools, trash, rubbish, blood stain, broken window, broken door, broken mirror, broken branches, arcane residue, footprints, psychic residue, receipt, clothing, weapons, weapon parts, witnesses, questioning, official records, a home address, background check, body, body part
+CLUE_TYPE = Any items in this list: spell books, magic history books, a book in the library, an item in Hagrid's hut, an item in the Room of Requirement, the statues at Hogwarts, a trophy in the trophy case at Hogwarts, a secret passage, the Marauder's Map, the paintings at Hogwarts, tools, trash, rubbish, blood stain, broken window, broken door, broken mirror, broken branches, arcane residue, footprints, psychic residue, receipt, clothing, weapons, weapon parts, witnesses, questioning, official records, a home address, background check, body, body part
 
 Display the contents of the STORY PROPERTIES LIST.
 
@@ -114,7 +114,7 @@ Display the contents of THE CLUE TEMPLATE excluding the delimiters.
 
 *Paste this into ChatGPT as-is.*
 
-Analyze the STORY OUTLINE and apply the STORY PROPERTIES LIST to the contents of the CLUE TEMPLATE above to generate a CLUE OUTLINE. Fill out the CLUE TEMPLATE for a {STORY_TYPE} story in the style of {AUTHOR} involving the player character investigators beginning their investigation of {CRIMINAL} commmitting the crime of {CRIME} at {START_NODE} or {START_PERSON} and finding clues that lead to {NODE1}, {NODE2}, {NODE3} and {END_NODE}.
+Analyze the STORY OUTLINE and apply the STORY PROPERTIES LIST to the contents of the CLUE TEMPLATE above to generate a CLUE OUTLINE. Fill out the CLUE TEMPLATE for a {STORY_TYPE} story in the style of {AUTHOR} involving the player character investigators beginning their investigation of {CRIMINAL} committing the crime of {CRIME} at {START_NODE} or {START_PERSON} and finding clues that lead to {NODE1}, {NODE2}, {NODE3} and {END_NODE}.
 
 # P5 Here is a STORY OUTLINE I'm working on
 
@@ -175,13 +175,13 @@ NODE3 = Dead spiders in the Forbidden Forest
 
 END_NODE = The Altar in the Chamber of Secrets
 
-CLUE_TYPE = Any items in this list: trash, rubbish, blood stain, broken window, broken door, broken mirror, broken branches, arcane residue, footprints, psychic residue, receipt, clothing, phone call records, weapons, weapon parts, witnesses, questioning, microfilm, official records, computer records, a home address, background check, body, body part
+CLUE_TYPE = Any items in this list: spell books, magic history books, a book in the library, an item in Hagrid's hut, an item in the Room of Requirement, the statues at Hogwarts, a trophy in the trophy case at Hogwarts, a secret passage, the Marauder's Map, the paintings at Hogwarts, tools, trash, rubbish, blood stain, broken window, broken door, broken mirror, broken branches, arcane residue, footprints, psychic residue, receipt, clothing, weapons, weapon parts, witnesses, questioning, official records, a home address, background check, body, body part
 
 Display the contents of the NEW STORY PROPERTIES LIST.
 
 # P7 Repeat the same prompt to regenerate the outline
 
-Analyze the NEW STORY OUTLINE and apply the NEW STORY PROPERTIES LIST to the contents of the CLUE TEMPLATE above to generate a CLUE OUTLINE. Fill out the CLUE TEMPLATE for a {STORY_TYPE} story in the style of {AUTHOR} involving the player character investigators beginning their investigation of {CRIMINAL} commmitting the crime of {CRIME} at {START_NODE} or {START_PERSON} and finding clues that lead to {NODE1}, {NODE2}, {NODE3} and {END_NODE}.
+Analyze the NEW STORY OUTLINE and apply the NEW STORY PROPERTIES LIST to the contents of the CLUE TEMPLATE above to generate a CLUE OUTLINE. Generate the CLUE OUTLINE using the CLUE TEMPLATE for a {STORY_TYPE} story in the style of {AUTHOR} involving the player character investigators beginning their investigation of {CRIMINAL} committing the crime of {CRIME} at {START_NODE} or {START_PERSON} and finding clues that lead to {NODE1}, {NODE2}, {NODE3} and {END_NODE}.
 
 ## P8 Optional: replace one of the clues.
 
