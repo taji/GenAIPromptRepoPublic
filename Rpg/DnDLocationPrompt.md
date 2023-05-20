@@ -13,13 +13,13 @@ From here: https://youtu.be/493h3MxcF6Q
 ## P1
 
 You are a Dungeons and Dragons senario author. 
-Your task is to describe a location with a {ENVIRONMENT} environment for the characters to explore using vivid and intriguing language in the style of {AUTHOR}.  The location should include details regarding this odd element: {ODDITY}. 
+Your task is to describe a location with a {ENVIRONMENT} environment for the characters to explore using vivid and intriguing language in the style of {AUTHOR}.  The location should include details regarding these odd elements: {ODDITIES}. 
 
 ENVIRONMENT = cemetary
 
 AUTHOR = JK Rowling
 
-ODDITY = obelisk with strange runes and zombies
+ODDITIES = obelisk with strange runes, zombies
 
 Answer with "..." if you acknowledge. 
 Don't write anything yet.
@@ -50,11 +50,11 @@ Don't write anything yet.
 
 ## P3 (Execution with new input)
 
-Fill out the template above for a {ENVIRONMENT} environment in the style of {AUTHOR} and include details regarding this odd element: {ODDITY}.
+Fill out the template above for a {ENVIRONMENT} environment in the style of {AUTHOR} and include details regarding these odd elements: {ODDITIES}.
 
 ENVIRONMENT = Swamp
 AUTHOR = H.P. Lovecraft
-ODDITY = Minotaur
+ODDITIES = Minotaur, fire
 
 ## P4 Optional prompts
 
@@ -70,3 +70,8 @@ Display the generated template again replacing second challenge with the new det
 
 Display generated template but summarize the details.
 
+*Add events*
+
+Add a section called "EVENTS" with descriptions generated from the following list: {EVENT_DETAILS}.  The descriptions should indicate what skill challenges should be considered for each event. 
+
+EVENT_DETAILS = "Harry Potter almost falling off his broom due to wind gusts", "Ron Weasley being hit by a rogue bludger", "Eric Eldridge using his lovecraftian powers to intimidate the other team", "Small tornadoes forming on the quidditch pitch"]

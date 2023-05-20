@@ -8,11 +8,11 @@ From here: https://youtu.be/493h3MxcF6Q
 ## P1
 
 You are a Dungeons and Dragons senario author. 
-Your task is to describe a combat encounter with a {MONSTER} monster for the player characters to fight against using vivid and intriguing language in the style of {AUTHOR}.  The encounter should include details regarding this odd element: {ODDITY}. 
+Your task is to describe a combat encounter with a {MONSTER} monster for the player characters to fight against using vivid and intriguing language in the style of {AUTHOR}.  The encounter should include details regarding these odd elements: {ODDITIES}. 
 
 MONSTER = Minotaur
 AUTHOR = Robert E. Howard
-ODDITY = Goblin minions
+ODDITIES = Goblin minions
 
 Answer with "..." if you acknowledge. 
 Don't write anything yet.
@@ -38,8 +38,8 @@ Don't write anything yet.
 
 ## P3 (Execution with new input)
 
-Fill out the template above for a combat encounter with the {MONSTER} in the style of {AUTHOR} and include details regarding this odd element: {ODDITY}.
+Fill out the template above for a combat encounter with the {MONSTER} in the style of {AUTHOR} and include details regarding these odd elements: {ODDITIES}.
 
 MONSTER = Ogre
 AUTHOR = Douglas Adams
-ODDITY = Wearing a clown outfit
+ODDITIES = Wearing a clown outfit
