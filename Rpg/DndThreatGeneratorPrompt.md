@@ -16,14 +16,19 @@ Godzilla, The Birds, The Perfect Storm, The Titanic).  The key difference is the
 # P1
 
 You are a role playing game scenario author.
+
 Your task is to write details for the threat of {THREAT} that will be manifested by {MANIFESTER} against the victim {VICTIM} in the style of {AUTHOR}.  
 
 Here is an example of properties to use when writing the details:
 
 THREAT = an attack to destroy the Astroworld amusment park and eat it's inhabitants
+
 MANIIFESTER = Lovecraftian insect creatures climbing out of a sink hole below the park grounds
-MORE_DETAILS (as a list of comma separated details) = the event takes place on holloween night at the Fright Night festival at Astroworld, the creatures gain access to the park due to excavation by construction crews that uncovered the sinkhole where the creatures live, the creatures are attracted to electricity emanating at the powerstation in the park, there are three types of lovecraftian creatures:  giant flying insect-like creatures, giant caterpillar-like creatures, large maggot-like creatures    
+
+MORE_DETAILS (as a list of comma separated details) = the event takes place on holloween night at the Fright Night festival at Astroworld, the creatures gain access to the park due to excavation by construction crews that uncovered the sinkhole where the creatures live, the creatures are attracted to electricity emanating at the powerstation in the park, there are three types of lovecraftian creatures:  giant flying insect-like creatures, giant caterpillar-like creatures, large maggot-like creatures, some visitors to the park will be driven mad when they encounter the monsters    
+
 VICTIM = visitors to the amusement park
+
 AUTHOR = Michael Crichton
 
 Answer with "..." if you acknowledge. 
@@ -57,10 +62,15 @@ Don't write anything yet.
 Complete the template above using the following properties:
 
 THREAT = an attack to destroy the Astroworld amusment park and eat it's inhabitants
+
 MANIIFESTER = Lovecraftian insect creatures climbing out of a sink hole below the park grounds
-MORE_DETAILS (as a list of comma separated details) = the event takes place on holloween night at the Fright Night festival at Astroworld, the creatures gain access to the park due to excavation by construction crews that uncovered the sinkhole where the creatures live, the creatures are attracted to electricity emanating at the powerstation in the park, there are three types of lovecraftian creatures:  giant flying insect-like creatures, giant caterpillar-like creatures, large maggot-like creatures    
+
+MORE_DETAILS (as a list of comma separated details) = the event takes place on holloween night at the Fright Night festival at Astroworld, the creatures gain access to the park due to excavation by construction crews that uncovered the sinkhole where the creatures live, the creatures are attracted to electricity emanating at the powerstation in the park, there are three types of lovecraftian creatures:  giant flying insect-like creatures, giant caterpillar-like creatures, large maggot-like creatures, some visitors to the park will be driven mad when they encounter the monsters    
+
 VICTIM = visitors to the amusement park
+
 AUTHOR = Michael Crichton
+
 
 # Optional instructions
 

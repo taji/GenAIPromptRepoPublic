@@ -74,6 +74,39 @@ MORE_DETAILS (as a list of comma separated details) = a young wizard named Ruper
 VICTIM = The Wizarding World, which will fall under tyranny if Voldemort rises to power.
 AUTHOR = H.P. Lovecraft
 
+# P3.2 Here is another one: "Threxulon's Betrayal"
+
+Complete the template above using the following properties:
+
+CRIME = Uncover the location of Voldemort's horcruxes, retreive the horcruxes and use them to force Voldemort to serve the mind flayer Threxulon.  Threxulon will threaten Voldemort with death by destroying the horcruxes unless Voldemort serves him. 
+COMMITTER = Threxulon, a mind flayer
+MORE_DETAILS (as a list of comma separated details) = two of Voldemorts lieutenants (Peter Pettigrew and Bellatrix Lestrange) are enthralled to Threxulon and are secretly serving Threxulon to betray Voldemort,  Threxulon cannot speak.  Instead he speaks through two children who are enthralled to him: Rupert Ham and Abigail Laundryman, Threxulon also has an enthralled servant  who teaches at Hogwarts and who has uncovered the secret of the horcruxes by spying on Albus Dumbledore
+VICTIM = Voldemort who will be be forced to serve Threxulon.  
+AUTHOR = H.P. Lovecraft
+
+# P3.3 And another one: "Threxulon Invades Hogwarts Plot"
+
+Complete the template above using the following properties:
+
+CRIME = Enslave the professors at Hogwarts
+COMMITTER = Threxulon a mind flayer
+MORE_DETAILS (as a list of comma separated details) = infiltrate the Hogwarts school grounds through underground tunnels or secret passages, use cranium rats to project feelings of paranoia on the facluty and to sow mistrust, use Death Eater lieutenants to kidnap any professors that are able to resist enslavement, retrieve vials that  contain memories from the crypts of dead wizards to use in a pensieve to unlock dark magic
+VICTIM = Albus Dumbledore and Hogwarts School
+AUTHOR = H.P. Lovecraft
+
+# P3.3 And another one: "Threxulon's Waking Doom"
+
+Complete the template above using the following properties:
+
+GOAL 2: The Mind Flayer Threxulon seeks to unlock the arcane secrets hidden beneath the black lake, using the combined powers of his sorcerer lieutenants and the psychic network of his cranium rat minions to locate and extract the mysterious artifact called the WAKING DOOM, in order to dominate the world of magic and enslave it's inhabitants.
+
+CRIME = Use a mysterious artifact called the Waking Doom to overthrow the ministry and enslave the world
+COMMITTER = Threxulon a mind flayer
+MORE_DETAILS (as a list of comma separated details) = the Waking doom artifact is in a hidden temple beneath the black lake, unknown to Threxulon the artifact will awaken the deep one Chtulhu and end up destroying the universe, cranium rats and death eaters will assist Threxulon in finding the artifact
+VICTIM = All of mankind and existence itself
+AUTHOR = H.P. Lovecraft
+
+
 # Optiona instructions
 
 *Expand the number of steps to include more detail about a specific step*
