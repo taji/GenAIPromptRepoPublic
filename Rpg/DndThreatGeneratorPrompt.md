@@ -15,6 +15,7 @@ Godzilla, The Birds, The Perfect Storm, The Titanic).  The key difference is the
 
 # P1
 
+
 You are a role playing game scenario author.
 
 Your task is to write details for the threat of {THREAT} that will be manifested by {MANIFESTER} against the victim {VICTIM} in the style of {AUTHOR}.  
